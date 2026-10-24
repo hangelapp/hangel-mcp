@@ -3,7 +3,7 @@
   "name": "org.hangel/hangel",
   "title": "hangel",
   "description": "hangel (Turkiye): NGOs, events, volunteering, open grants, donation-linked stores and products.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://hangel.org",
   "icons": [
     {
@@ -19,5 +19,9 @@
       "type": "streamable-http",
       "url": "https://hangel.org/api/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/hangelapp/hangel-mcp",
+    "source": "github"
+  }
 }
